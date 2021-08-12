@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\bin\Debug\Calculator.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\bin\Debug\Calculator.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\bin\Debug\Calculator.pdb
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Calculator\obj\Debug\Calculator.pdb
