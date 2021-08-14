@@ -1,0 +1,14 @@
+﻿<Window x:Class="AbsolutePositioning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AbsolutePositioning"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Name="canvas1">
+        <Button  Canvas.Left="100" Canvas.Top="100" Height="45" Name="button1" Width="89">
+            Click Me
+        </Button>
+    </Canvas>
+</Window>

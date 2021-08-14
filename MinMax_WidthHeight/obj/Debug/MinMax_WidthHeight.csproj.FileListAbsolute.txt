@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\bin\Debug\MinMax_WidthHeight.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\bin\Debug\MinMax_WidthHeight.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\bin\Debug\MinMax_WidthHeight.pdb
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\MinMax_WidthHeight\obj\Debug\MinMax_WidthHeight.pdb

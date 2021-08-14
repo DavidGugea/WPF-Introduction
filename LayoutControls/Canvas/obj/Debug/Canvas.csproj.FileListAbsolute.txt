@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\bin\Debug\Canvas.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\bin\Debug\Canvas.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\bin\Debug\Canvas.pdb
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\LayoutControls\Canvas\obj\Debug\Canvas.pdb

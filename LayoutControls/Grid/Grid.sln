@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "Grid.csproj", "{08F993DE-58DE-419B-9213-EFF5A6FA85C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F993DE-58DE-419B-9213-EFF5A6FA85C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F993DE-58DE-419B-9213-EFF5A6FA85C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F993DE-58DE-419B-9213-EFF5A6FA85C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F993DE-58DE-419B-9213-EFF5A6FA85C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4349DE80-A050-4CE0-AAAD-B3B71954AA4B}
+	EndGlobalSection
+EndGlobal
