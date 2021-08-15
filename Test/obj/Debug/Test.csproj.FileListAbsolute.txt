@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\bin\Debug\Test.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\bin\Debug\Test.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\bin\Debug\Test.pdb
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\Test\obj\Debug\Test.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Text_Options.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Text_Options"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        TextOptions.TextFormattingMode="Display"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" TextOptions.TextFormattingMode="Ideal">This is a label.</Label>        
+        <Label Grid.Row="1" TextOptions.TextFormattingMode="Display">This is a label.</Label>        
+
+        <Label Grid.Row="2" TextOptions.TextRenderingMode="ClearType">This is a label.</Label>        
+        <Label Grid.Row="3" TextOptions.TextRenderingMode="Grayscale">This is a label.</Label>        
+        <Label Grid.Row="4" TextOptions.TextRenderingMode="Aliased">This is a label.</Label>        
+    </Grid>
+</Window>

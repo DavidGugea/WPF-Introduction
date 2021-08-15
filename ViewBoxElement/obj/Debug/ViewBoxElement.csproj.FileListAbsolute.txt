@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\bin\Debug\ViewBoxElement.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\bin\Debug\ViewBoxElement.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\bin\Debug\ViewBoxElement.pdb
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\ViewBoxElement\obj\Debug\ViewBoxElement.pdb
