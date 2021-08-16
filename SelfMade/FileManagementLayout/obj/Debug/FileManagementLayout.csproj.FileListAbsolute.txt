@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\bin\Debug\FileManagementLayout.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\bin\Debug\FileManagementLayout.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\bin\Debug\FileManagementLayout.pdb
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\FileManagementLayout\obj\Debug\FileManagementLayout.pdb

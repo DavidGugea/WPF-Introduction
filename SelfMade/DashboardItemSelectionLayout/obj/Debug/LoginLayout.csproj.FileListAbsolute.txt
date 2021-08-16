@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\bin\Debug\LoginLayout.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\bin\Debug\LoginLayout.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\bin\Debug\LoginLayout.pdb
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout.exe
+G:\David\PROGRAMMING\CSC\WPF_Introduction_Einfuehrung\SelfMade\LoginLayout\obj\Debug\LoginLayout.pdb
